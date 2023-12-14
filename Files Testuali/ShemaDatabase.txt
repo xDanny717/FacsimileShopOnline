@@ -1,0 +1,34 @@
+Schema del database 
+
+INPORTANTE : Dopo la prima fase di test si è riscontrato che nella tabella categorie mancano
+il link una volta cliccato su di essa e la stringa per l'immagine della categoria.
+
+Dati da gestire :
+
+Categorie dei prodotti
+Prodotti
+Utenti
+Ordini
+Categoria 
+
+
+Dati relativi al prodotto{
+    Nome , Codice , descrizione , prezzo , rimaneza , immagine_prodotto , Codice_categoria 
+}   
+
+Dati relativi Utente  {
+    Nome , Cognome , Codice , Codice Civico , email , Password , Indirizzo , Numerocarta , Telefono
+}
+
+Per la gestione degli ordini , si utlizza una tabella dettagli ordine collegata a i prodotti e un ordine in modo
+che un utente ha un solo ordine e in quell' ordine stanno più prodotti 
+
+
+Dati relativi Dettagli Ordine {
+    Codice_Dettaglio_Oridne , Codice_Ordine , Codice_Prodotto , Quantità
+}
+
+Categoria {
+    Codice_categoria , Nome categoria , immagine_categoria 
+}
+

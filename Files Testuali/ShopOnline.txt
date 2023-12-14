@@ -1,0 +1,16 @@
+Lo scopo del progetto è quello di creare un shop online dove è possibile fare l'acquisto di prodotti , lo stilie del front-and e come quello di temu
+Con delle card che rappresentano i prodotti presenti nel database con quantità e prezzo , una volta cliccato sul prodotto si apre una pagina dedicata del prodotto con il pulsante acquista e la quantita.
+Una volta effettuato l'acquisto del prodotto , viene inviato il ordine al magazzino che si occupera della consegna 
+
+
+Layout sito
+Register -
+	Form con tutti i campi del database con i campi del cliente
+Login-
+	Form con username e password
+Home-
+	La schermata home contiene la navbar e le varie categorie dei prodotti
+Schermata prodotto-
+	La schermata contine immagini e le informazioni del prodotto più il pulsante acquista
+
+

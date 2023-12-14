@@ -1,0 +1,16 @@
+.prod_image{
+    width: 40vw !important;
+    border-radius: 8px;
+}
+.prod_image_container{
+    width: 50%;
+    padding: 30px;
+}
+
+.prod_content{
+    padding:20px;
+    position: absolute;
+    top:20%;
+    left: 60%;
+    width:40%;
+}

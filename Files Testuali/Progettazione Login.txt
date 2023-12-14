@@ -1,0 +1,5 @@
+Per la progettazione del login si utilizza SQL Autentication ..informazioni su:
+https://learn.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-login?view=sql-server-ver16
+
+1)Fare leyout del login ok
+2)Fare backand del login ok

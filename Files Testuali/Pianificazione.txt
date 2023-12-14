@@ -1,0 +1,22 @@
+Per lo sviluppo del sito web :
+Database sviluppato solo qualche ritocco
+Back-end sviluppo delle funzionalità del sito
+-Login 
+-Register 
+-Schermata dei prodotti
+-Acquisto dei prodotti
+-Collegamento con il gestionale
+Fase due Abbellimento del Front-end
+
+
+Tecnologie utilizzate per il sito web 
+
+-Html
+-css / bootstrap
+-php
+-javascript
+
+
+Aggiungere immagini e link alle categorie
+Creare la pagina del prodotto e quella dei prodotti
+e il register con validazione
